@@ -4,6 +4,7 @@
  * @see https://developer.wordpress.org/block-editor/packages/packages-components/
  */
 import { TextControl } from '@wordpress/components';
+var test = 123;
 
 /**
  * React hook that is used to mark the block wrapper element.
